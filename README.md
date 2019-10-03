@@ -1,11 +1,11 @@
-## Onefootball task
+## Fetch football players for certain teams
 
 To run the application:
 
 go run main.go
 -
 
-data/teams.go  ->  array team names
+data/teams.go  ->  array team names (Change to get other players in distinct teams)
 
 models/Response.go  ->  to get response into struct
 models/Player.go  ->  to add players and print them
